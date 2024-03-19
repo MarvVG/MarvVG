@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Marcos Vinicius!
-| https://github-readme-stats.vercel.app/api?username=MarvVG&show_icons=true&theme=dark | ![MarvVG’s github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarvVG&layout=compact&langs_count=8&theme=dark) |
+| ![MarvVG’s github stats](https://github-readme-stats.vercel.app/api?username=MarvVG&show_icons=true&theme=dark) | ![MarvVG’s github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarvVG&layout=compact&langs_count=8&theme=dark) |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 
 <div style="display: inline_block"><br>
